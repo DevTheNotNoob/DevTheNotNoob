@@ -1,10 +1,17 @@
-- 👋 Hi, I’m @DevTheNotNoob
-- 👀 I’m Working On A Important Skyblock Remake project Which Is In Progress.
+Hypixel Skyblock Remake 
+Currently Im Working On A Hypixel Skyblock Remake 
 
-Contact: auushmlpzaqplmqaz@gmail.com
+Things That Are Done: 
 
-Discord: N/A
-<!---
-DevTheNotNoob/DevTheNotNoob is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Bazaar ✓
+Auction ✓
+Regions & World Guard ✓ 
+Jumppads × 
+Custom Items [Still In Progress] 
+NPCs ✓ 
+Scoreboard ✓ 
+Minions × 
+Mayor Voting × 
+Events × 
+Custom Mobs ✓ 
+Gems & Bits ✓
